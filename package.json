@@ -1,0 +1,12 @@
+{
+	"name": "exitramp",
+	"version": "0.0.0",
+	"homepage": "https://github.com/djechlin/exitramp",
+	"author": "Dan Echlin <djechlin@gmail.com>",
+
+	"main": "index.js",
+	"repository": {
+			"type": "git",
+			"url": "git://github.com/djechlin/exitramp.git"
+	},
+}
