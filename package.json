@@ -1,12 +1,14 @@
 {
-	"name": "exitramp",
-	"version": "0.0.0",
-	"homepage": "https://github.com/djechlin/exitramp",
-	"author": "Dan Echlin <djechlin@gmail.com>",
-
-	"main": "index.js",
-	"repository": {
-			"type": "git",
-			"url": "git://github.com/djechlin/exitramp.git"
-	}
+  "name": "exitramp",
+  "version": "0.0.1",
+  "homepage": "https://github.com/djechlin/exitramp",
+  "author": "Dan Echlin <djechlin@gmail.com>",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/djechlin/exitramp.git"
+  },
+  "dependencies": {
+    "logup-emitter": "0.0.0"
+  }
 }
