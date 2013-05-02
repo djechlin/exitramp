@@ -20,4 +20,4 @@ exitramp is ambivalent with respect to whether callbacks to verb routes return s
 Derby
 -----
 
-Transitional routes do not act on the page hence do not return any result.  Returned values from transitional routes in exitramp will be ignored, except for `pass()` and errors.
+Transitional routes do not act on the page hence most results are not applicable.  Returned values from transitional routes in exitramp will be ignored, except for `pass()` and errors.
